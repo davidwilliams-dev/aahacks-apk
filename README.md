@@ -4,7 +4,7 @@
 We’ll redirect you to our official and secure GitHub page. This is where you can safely get the AAHacks APK file.
 
 ## ✅ Step 2: Tap on "aahacks apk"
-When you tap on "aahacks apk, you will see a download icon. Tap on that to install the apk
+When you tap on "aahacks apk, you will see a download icon to download the **raw file**. Tap on that to install the apk
 
 ## ✅ Step 3: Read Before You Install 
 Before installing, take a minute to read the instructions. It’ll help you avoid issues and understand what the app does. 
